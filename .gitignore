@@ -1,3 +1,5 @@
 homegrown-2022-participants/
 *.ipynb_checkpoints
 Notebooks
+*.env
+.DS_Store
