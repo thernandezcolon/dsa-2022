@@ -4,3 +4,4 @@ Notebooks
 *.env
 .DS_Store
 capstone/reference
+capstone/data
